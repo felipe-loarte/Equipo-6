@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Descripción del Equipo
+## Descripción del Equipo
 
 Somos el **Equipo 6** del curso de *Procesos de Innovación en Ingeniería 2026-1*, conformados por estudiantes de la carrera de **Ingeniería Ambiental / Informática**.
 
@@ -35,7 +35,7 @@ Nos interesa trabajar en los siguientes ODS:
 
 ---
 
-## 👥 Integrantes del Equipo
+## Integrantes del Equipo
 
 | Nombres | Rol | Intereses |
 |---------|-----|-----------|
@@ -46,6 +46,6 @@ Nos interesa trabajar en los siguientes ODS:
 
 ---
 
-## ✅ Resumen Final
+## Resumen Final
 
 > Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
