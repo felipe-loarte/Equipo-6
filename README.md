@@ -39,10 +39,10 @@ Nos interesa trabajar en los siguientes ODS:
 
 | Nombres | Rol | Intereses |
 |---------|-----|-----------|
-| **Mathias André Veramendi Minaya** <br> mathias.veramendi@upch.pe | 👑 Líder | Innovación social, gestión ambiental y desarrollo de soluciones tecnológicas. |
-| **Sebastián Omar Barzola Anglas** <br> sebastian.barzola@upch.pe | ✍️ Encargado de Redacción | Producción de contenidos claros, coherentes y alineados con los objetivos del proyecto. |
-| **Yessica Alvarez Hanampa** <br> yessica.alvarez@upch.pe | 🔍 Responsable de Investigación | Optimización de impacto mediante el análisis de eficiencia tecnológica, innovación social sistémica y evaluación de sostenibilidad a largo plazo. |
-| **Felipe Gabriel Loarte Nathals** <br> felipe.loarte@upch.pe | 🎨 Diseñador/Creativo | Intereses en las problemáticas de calidad del agua, saneamiento, cambio climático y ecosistemas acuáticos. |
+| **Mathias André Veramendi Minaya** <br> mathias.veramendi@upch.pe |  Líder | Innovación social, gestión ambiental y desarrollo de soluciones tecnológicas. |
+| **Sebastián Omar Barzola Anglas** <br> sebastian.barzola@upch.pe | Encargado de Redacción | Producción de contenidos claros, coherentes y alineados con los objetivos del proyecto. |
+| **Yessica Alvarez Hanampa** <br> yessica.alvarez@upch.pe |  Responsable de Investigación | Optimización de impacto mediante el análisis de eficiencia tecnológica, innovación social sistémica y evaluación de sostenibilidad a largo plazo. |
+| **Felipe Gabriel Loarte Nathals** <br> felipe.loarte@upch.pe | Diseñador/Creativo | Intereses en las problemáticas de calidad del agua, saneamiento, cambio climático y ecosistemas acuáticos. |
 
 ---
 
