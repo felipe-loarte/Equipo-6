@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#1a73e8;">🔵 Equipo 6 - Procesos de Innovación en Ingeniería (PIIF3)</h1>
+<h1 align="center" style="color:#1a73e8;"> Equipo 6 - Procesos de Innovación en Ingeniería (PIIF3)</h1>
 
 <p align="center">
   <strong>Carrera de Ingeniería Ambiental / Informática</strong><br>
