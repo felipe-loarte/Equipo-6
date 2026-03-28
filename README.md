@@ -15,7 +15,7 @@ Nuestro objetivo es aplicar la metodología de un proceso de innovación para ge
 
 ---
 
-## 🌍 Objetivos de Desarrollo Sostenible (ODS)
+## Objetivos de Desarrollo Sostenible (ODS)
 
 Nos interesa trabajar en los siguientes ODS:
 
