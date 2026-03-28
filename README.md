@@ -20,3 +20,6 @@ Foto de equipo:
 
 
 Integrantes del equipo:
+
+Resumen Final
+Este README resume quienes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
