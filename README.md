@@ -28,7 +28,7 @@ Nos interesa trabajar en los siguientes ODS:
 
 ---
 
-## 📸 Foto de Equipo
+##  Foto de Equipo
 
 <!-- Reemplaza la URL con el link real de tu imagen -->
 ![Foto del Equipo](URL_DE_TU_FOTO_AQUI)
