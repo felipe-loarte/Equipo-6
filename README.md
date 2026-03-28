@@ -20,31 +20,6 @@ Foto de equipo:
 
 
 Integrantes del equipo:
-Nombres
-Rol
-Intereses
-Mathias André Veramendi Minaya
-
-mathias.veramendi@upch.pe
-Líder
-Innovación social, gestión ambiental y desarrollo de soluciones tecnológicas.
-Sebastián Omar Barzola Anglas 
-
-sebastian.barzola@upch.pe
-Encargado de Redacción
-Producción de contenidos claros, coherentes y alineados con los objetivos del proyecto.
-Yessica Alvarez Hanampa
-yessica.alvarez@upch.pe 
-Responsable de investigación
-Optimización de impacto mediante el análisis de eficiencia tecnológica, innovación social sistémica y evaluación de sostenibilidad a largo plazo
-Felipe Gabriel Loarte Nathals
-felipe.loarte@upch.pe 
-Diseñador/
-Creativo
-Intereses en la problemáticas de calidad del agua, saneamiento, cambio climático y ecosistemas acuáticos.
-
-
-
 
 Resumen Final
 Este README resume quienes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante el curso.
