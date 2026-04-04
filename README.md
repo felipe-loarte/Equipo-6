@@ -23,8 +23,8 @@ Nos interesa trabajar en los siguientes ODS:
 |-----|--------|
 | 🟢 ODS 3  | Salud y bienestar |
 | 🔵 ODS 6  | Agua limpia y saneamiento |
-| 🟡 ODS 13 | Acción por el clima |
-| 🔷 ODS 14 | Vida submarina |
+| 🟡 ODS 8 | Trabajo decente y crecimiento economico |
+| 🔷 ODS 10 | Reduccion de las desigualdades |
 
 ---
 
